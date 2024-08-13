@@ -1,7 +1,9 @@
 <?php
 if ($_POST) {
     echo 'Im inside $_POSTgit';
-} ?>
+}
+echo "test";
+?>
 <!doctype html>
 <html lang="en">
 
